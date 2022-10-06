@@ -13,7 +13,7 @@ This is a template to help you create your own human user guide. The goal of a h
 
 ### What drives you nuts?
 * Cyclical conversation or meandering to a point
-* Lack of responses to fair or well formed questions
+* Lack of responses to fair or well formed questions. Lack of expectation setting.
 * Time tracking
 
 ### What are your quirks?
@@ -30,29 +30,33 @@ This is a template to help you create your own human user guide. The goal of a h
 ### What qualities do you particularly value in your colleagues?
 * *Tell us what your ideal colleague would look like. These are the people you normally seek out at work.*
 * My ideal colleagues buy into the vision, understand how they can add value and move fast to add that value
-* In a perfect world we'd have ...
+* In a perfect world *things would just happen* - but we know that not to be true, and, so whilst we're in an imperfect world I know and appreciate that everyone is different - we all have a different appetite for work - so just please: communicate. Not going to be able to take something on?: communicate, not going to deliver to the expectation you set? communicate.. feeling off at the moment? communicate. - See also: 'What drives you nuts?'.
 
 ### What do you wish colleagues didn’t do?
-* *Think of the people you avoid at work. What are their characteristics?*
+* Trying to solve world hunger on a stand up ;)
 
 ### How can people earn an extra gold star with you?
-* *Think of the time when a colleague puts a smile on your face. What did they just do?*
+* Commit to an action, work on it, and come back inside the expectation they set..
+* Automate a thing, just pick something and automate it - I don't care if it's the timesheet tracking we do, or the deployment of widget X to environment Y - just go for it - and let me know how you got on, what you learned and how it felt.
 
 ## About my interactions
 
 ### How do you coach people to do their best work and develop their talents?
-* *Tell us how you like to help others.*
+* We look at examples and real world situations that come up to guide where to go next
+* Evaluating a learning path or roadmap for the individual and seeing which areas need work - guiding others towards areas that could use some work
 
 ### What’s the best way to communicate with you?
-* *If you hate emails, tell us. If you prefer a quick zoom over a 15 min write up, tell us.*
+* The prompt here was 'Do you hate email': In a word: yes.
+* I prefer instant communication like slack, if you have to: webex!
+* When something is going to be larger than a YES/NO or RED/GREEN please let's just huddle it out for 10 mins to find a conclusion
 
 ### What’s the best way to convince you to do something?
-* *Tell us how we can change your mind, once it’s made up.*
+* Show me how I can improve, bring me some feedback with a case study. Use data.
 
 ### How do you like to give feedback?
-* *Tell us the modes, means, timing, approach, and level of detail you like to employ when giving feedback, and why that's so.*
+* When we are talking about performance impact feedback: We'll do that face to face - either online or in the office ; we'll use examples of why we can't be here anymore and what needs to change.
+* In cases of positive reinforcement feedback you'll get those 'thank yous' and day to day interactions almost immediately. I will always make space for you in a 1:1 setting minimum twice a month for us to deep dive into the weeds of it all.
 
 ### How do you like to get feedback?
-* *Tell us the modes, means, timing, approach, and level of detail you like to see others employ when giving you feedback, and why that's so.*
+* Honestly I am not picky about this - I would just welcome *more* feedback ; I don't know if it's my current setting but it sometimes can feel like an echo chamber!
 
-	

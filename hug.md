@@ -1,4 +1,4 @@
-# Human User Guide Template
+# Human User Guide
 This is a template to help you create your own human user guide. The goal of a human user guide is to make working together and collaboration with colleagues easier, faster. The focus for this user guide is on the workplace. As such, many of the questions are geared towards information that would be pertinent to your colleagues.
 
 ## About me

@@ -4,24 +4,33 @@ This is a template to help you create your own human user guide. The goal of a h
 ## About me
 
 ### What are some honest, unfiltered things about you?
-* *Tell us about things that others may not easily discern about you.*
+* When I'm motivated or driven, I may struggle with work life balance - committing myself wholly to a subject matter for months at a time without surfacing for air
+* During times that I am firing on all 12 cylinders you'll need to keep up or level-set expectations to avoid frustrating me; I'm a work in progress.
 
 ### When are you available?
-* *Are you a morning person? Do you prefer evenings? What time zone do you work in VS live in, etc...*
+* I live in the UK, Mornings are not my favourite at the moment - I find that mid morning and early evening I am most creative
+* I've been known to work late .. and early.. and generally anywhere in between. Though I do turn off slack outside office hours for maximum concentration.
 
 ### What drives you nuts?
-* *Tell us about your pet peeves. These are things that put you in a bad mood.*
+* Cyclical conversation or meandering to a point
+* Lack of responses to fair or well formed questions
+* Time tracking
 
 ### What are your quirks?
-* *Tell us about those traits that are uniquely yours. How do you like to make decisions? How do you react to conflict?*
+* I don't buy into hierarchies fully, despite the fact we all have to operate in and around them. Challenge the status quo.
+* Once promoted myself by changing my Job Title on linked-in and then retro-negotiated the official title change with my then boss. That was interesting.
+* In terms of making decisions - I like to get 'just enough data' to make the decision, then take it and commit to trying something; I value iteration over long term stability for most things - especially technology wise!
 
 ### What are some things that people might misunderstand about you that you should clarify?
-* *Think of some labels people may apply to you. Tell us why those are wrong.*
+* Let me clear: I am an empathetic leader - I understand everyone has a life behind the keyboard, that said, when there is work to be done or a challenge on our handS I want us to acknowledge each other, be empathetic and crack on - at times this may come across as being 'quite direct' and I've certainly had this feedback before; look: I am just wired to want answers fast and at times I can struggle with small talk (even if my colleagues tell you otherwise!)
+* Explicitly: I don't believe in silo's of communication; I value transparency and everything that comes with it - own it; this can be a point of friction for some; again, I'm a work in progress.
 
 ## About my colleagues
 
 ### What qualities do you particularly value in your colleagues?
 * *Tell us what your ideal colleague would look like. These are the people you normally seek out at work.*
+* My ideal colleagues buy into the vision, understand how they can add value and move fast to add that value
+* In a perfect world we'd have ...
 
 ### What do you wish colleagues didn’t do?
 * *Think of the people you avoid at work. What are their characteristics?*
